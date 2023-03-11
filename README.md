@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com back-end;
 - 🌱 Estudando NodeJS;
-- 😄 Pronoumes: ele/dele;
+- 😄 Pronomes: ele/dele;
 
 ![Alanzink1's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanzink1&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanzink1&theme=dark)
