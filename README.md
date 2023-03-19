@@ -1,4 +1,4 @@
-### Olá, Mundo! Eu sou Alan Rodrigues 👋
+### Hello World! I am Alan Rodrigues 👋
 
 - 🔭 Hoje trabalho com back-end;
 - 🌱 Estudando NodeJS;
