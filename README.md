@@ -1,8 +1,8 @@
 ### Hello World! I am Alan Rodrigues 👋
 
-- 🔭 Hoje trabalho com back-end;
-- 🌱 Estudando NodeJS;
-- 😄 Pronomes: ele/dele;
+- 🔭 Today I work with backend;
+- 🌱 Studying NodeJS;
+- 😄 Pronouns: he/him;
 
 ![Alanzink1's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanzink1&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanzink1&theme=dark)
