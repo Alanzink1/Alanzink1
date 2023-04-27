@@ -13,7 +13,7 @@
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Alan-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1559680350128951301/VmzXSz7f_400x400.jpg">
+  <img align="right" alt="Alan-pic" height="150" style="border-radius:50px;" src="https://l1nq.com/ry4W2">
 </div>
 
   <div>
