@@ -1,7 +1,7 @@
 ### Hello World! I am Alan Rodrigues 👋
 
 - 🔭 Today I work with backend;
-- 🌱 Studying NodeJS;
+- 🌱 Studying Java;
 - 😄 Pronouns: he/him;
 
 ![Alanzink1's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanzink1&theme=dark)
