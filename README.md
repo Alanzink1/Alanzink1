@@ -26,4 +26,6 @@
   <a href = "https://twitter.com/AlanJRS_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
   </div>
+
+  ![snake gif](https://github.com/Alanzink1/Alanzink1/blob/output/github-contribution-grid-snake.svg)
  
