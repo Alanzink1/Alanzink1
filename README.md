@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!;I+am+Alan+Rodrigues+%F0%9F%91%8B;" />
-Hello World! I am Alan Rodrigues 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=39F722&center=true&random=false&width=435&lines=Hello+World!+%F0%9F%A4%96;I+am+Alan+Rodrigues+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 - 🔭 Today I work with backend;
 - 🌱 Studying Java;
