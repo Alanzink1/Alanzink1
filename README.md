@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&pause=1000&color=39F722&center=true&random=false&width=435&lines=Hello+World!+%F0%9F%A4%96;I+am+Alan+Rodrigues+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 - 🔭 Today I work with backend;
-- 🌱 Studying Java;
-- 😄 Pronouns: he/him;
+- 🌱 Studying Angular;
 
 ![Alanzink1's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanzink1&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanzink1&theme=dark)
