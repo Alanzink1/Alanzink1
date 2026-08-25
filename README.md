@@ -237,12 +237,6 @@ An interactive Pokédex built as a playground for modern Angular concepts.
   alt="Alan Rodrigues GitHub stats"
 />
 
-<img
-  width="49%"
-  src="https://streak-stats.demolab.com?user=alanzink1&locale=en_US&hide_border=true&background=0D1117&ring=A855F7&fire=7C3AED&currStreakNum=F5F3FF&sideNums=D8B4FE&currStreakLabel=C084FC&sideLabels=A78BFA&dates=8B949E"
-  alt="Alan Rodrigues GitHub streak"
-/>
-
 <br><br>
 
 <img
